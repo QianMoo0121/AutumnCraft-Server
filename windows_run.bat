@@ -1,3 +1,3 @@
 @echo off
-java -jar arclight-neoforge-1.21.1-1.0.0-SNAPSHOT.jar
+java -jar arclight-neoforge-1.21.1-1.0.1-SNAPSHOT-10b5ea6.jar
 pause
