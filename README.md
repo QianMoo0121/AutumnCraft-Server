@@ -17,6 +17,7 @@
 ![](image/2.png)
 
 Windows系统：双击`windows_run.bat`运行服务端，随后服务端将会开放到25565端口
+
 Linux系统：执行`bash linux_run.sh`运行服务端，随后服务端将会开放到25565端口
 
 启动客户端 >> 多人游戏 >> 添加服务器 >> IP填入127.0.0.1或localhost >> 完成，加入服务器.
